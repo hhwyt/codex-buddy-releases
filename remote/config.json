@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "latest": {
+    "version": "0.2.1",
+    "notes": "",
+    "macUrl": "https://github.com/hhwyt/codex-buddy-releases/releases/download/v0.2.1/CodexBuddy-0.2.1.dmg",
+    "winUrl": "https://github.com/hhwyt/codex-buddy-releases/releases/download/v0.2.1/CodexBuddy-Setup-0.2.1.exe",
+    "winSha256": "7d4dff49d31a8d599900473dbb33f01d08049657fc512c89bce6e3f097abb12b",
+    "macSha256": "15e41ae8eb39569098f8634f9e06b71b9d1cb5497ab2657cca3d1afb8c131066"
+  },
+  "minVersion": "0.2.1",
+  "models": {
+    "deepseek": [
+      {
+        "slug": "deepseek-flash",
+        "name": "DeepSeek V4.1 Flash",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "deepseek-v4-pro",
+        "name": "DeepSeek V4 Pro",
+        "free": false,
+        "reasoning": []
+      }
+    ],
+    "zhipu": [
+      {
+        "slug": "glm-4.5-flash",
+        "name": "GLM-4.5-Flash",
+        "free": true,
+        "reasoning": []
+      },
+      {
+        "slug": "glm-4.7-flash",
+        "name": "GLM-4.7-Flash",
+        "free": true,
+        "reasoning": []
+      },
+      {
+        "slug": "glm-4.6",
+        "name": "GLM-4.6",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "glm-5",
+        "name": "GLM-5",
+        "free": false,
+        "reasoning": []
+      }
+    ],
+    "kimi": [
+      {
+        "slug": "kimi-k2.7-code",
+        "name": "Kimi K2.7 Code",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "kimi-k2.7-code-highspeed",
+        "name": "Kimi K2.7 Code 高速版",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "kimi-k3.1-pro",
+        "name": "Kimi K3.1 Pro",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "kimi-k3",
+        "name": "Kimi K3",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "kimi-k2.6",
+        "name": "Kimi K2.6",
+        "free": false,
+        "reasoning": []
+      }
+    ],
+    "qwen": [
+      {
+        "slug": "qwen3-coder-plus",
+        "name": "Qwen3 Coder Plus",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "qwen3-coder-flash",
+        "name": "Qwen3 Coder Flash",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "qwen3-max",
+        "name": "Qwen3 Max",
+        "free": false,
+        "reasoning": []
+      }
+    ],
+    "minimax": [
+      {
+        "slug": "MiniMax-M2",
+        "name": "MiniMax-M2",
+        "free": false,
+        "reasoning": []
+      }
+    ],
+    "hunyuan": [
+      {
+        "slug": "hunyuan-turbos-latest",
+        "name": "混元 TurboS",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "hunyuan-t1-latest",
+        "name": "混元 T1",
+        "free": false,
+        "reasoning": []
+      },
+      {
+        "slug": "hunyuan-lite",
+        "name": "混元 Lite",
+        "free": true,
+        "reasoning": []
+      }
+    ]
+  },
+  "community": {
+    "qrUrl": "",
+    "text": "微信扫码进群"
+  },
+  "switches": {
+    "hiddenVendors": [],
+    "hideZh": false,
+    "hideClone": false
+  }
+}
