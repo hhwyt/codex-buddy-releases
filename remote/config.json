@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "latest": {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "notes": "",
-    "macUrl": "https://github.com/hhwyt/codex-buddy-releases/releases/download/v0.2.1/CodexBuddy-0.2.1.dmg",
-    "winUrl": "https://github.com/hhwyt/codex-buddy-releases/releases/download/v0.2.1/CodexBuddy-Setup-0.2.1.exe",
-    "winSha256": "7d4dff49d31a8d599900473dbb33f01d08049657fc512c89bce6e3f097abb12b",
-    "macSha256": "15e41ae8eb39569098f8634f9e06b71b9d1cb5497ab2657cca3d1afb8c131066"
+    "macUrl": "https://github.com/hhwyt/codex-buddy-releases/releases/download/v0.2.2/CodexBuddy-0.2.2.dmg",
+    "winUrl": "https://github.com/hhwyt/codex-buddy-releases/releases/download/v0.2.2/CodexBuddy-Setup-0.2.2.exe",
+    "winSha256": "ff8b86d9159bdfb277be5cf1a3d36f87d1e38000885ce678d79f026051765707",
+    "macSha256": "35b6fd8c8e774bf03eaa642efe9d5238e50e53642d4fbaf023b93e27b6bcea67"
   },
-  "minVersion": "0.2.1",
+  "minVersion": "0.2.2",
   "models": {
     "deepseek": [
       {
